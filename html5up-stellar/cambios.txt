@@ -1,0 +1,6 @@
+-- Cambios--
+
+index.html:
+    - tittle: Plantilla modificada....
+    - header: Duplicado para hacer dos introducciones con distintas fotos(cambiadas).
+    - 
